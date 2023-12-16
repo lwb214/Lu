@@ -79,7 +79,7 @@
 
 ### 结果
 - **一万次调用结果**
-![Markdown](https://s1.ax1x.com/2018/07/06/PZMMBF.png)
+![Markdown](https://s11.ax1x.com/2023/12/16/pi4HOk4.jpg)
 
 - **十万次调用结果**
 ![Markdown](https://s1.ax1x.com/2018/07/06/PZM3N9.png)
